@@ -27,4 +27,12 @@
   <a href="mailto:chanchreekjain@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanchreekjain/chanchreekjain/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanchreekjain/chanchreekjain/output/github-snake.svg">
+    <img alt="my contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/chanchreekjain/chanchreekjain/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%">
