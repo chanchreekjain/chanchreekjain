@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Chanchreek&fontSize=64&fontColor=ffffff&desc=I%20teach%20machines%20to%20watch%2C%20decide%20and%20do%20the%20boring%20parts&descSize=17&descAlignY=64&animation=fadeIn" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1400&color=7C5CFF&center=true&vCenter=true&width=620&lines=cameras+that+spot+a+rifle+before+a+ranger+does;traffic+lights+that+learn+to+stop+wasting+your+evening;agents+that+read+the+job%2C+not+the+buzzwords;models+that+admit+when+they're+hallucinating" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=7C5CFF&center=true&vCenter=true&width=760&lines=cameras+that+spot+a+rifle+before+a+ranger+does;traffic+lights+that+learn+to+stop+wasting+your+evening;agents+that+read+the+job%2C+not+the+buzzwords;models+that+admit+when+they're+hallucinating" alt="">
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/chanchreek-jain"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/chanchreek"><img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://github.com/Chanchreek"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:chanchreekjain@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/chanchreek-jain"><img height="38" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/chanchreek"><img height="38" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://github.com/Chanchreek"><img height="38" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:chanchreekjain@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%">
